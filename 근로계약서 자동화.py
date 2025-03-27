@@ -1,5 +1,4 @@
-# 📦 필요 모듈
-import pandas as pd
+import pandas as pd
 from datetime import datetime, timedelta
 from google.colab import files
 
