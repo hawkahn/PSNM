@@ -1,7 +1,12 @@
-# 📦 필요 모듈
+%%writefile 근로계약서_자동화_정상버전.py
+
 import pandas as pd
 from datetime import datetime, timedelta
 from google.colab import files
+
+# 🔽 여기에 너의 자동화 코드 전부 붙여넣기
+
+print("✅ 엑셀 자동화 완료!")
 
 # 1️⃣ 파일 업로드
 print("📂 인사대장 파일을 업로드하세요.")
